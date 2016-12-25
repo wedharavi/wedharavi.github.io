@@ -1,0 +1,26 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.chin-may-not.github.io" resolutions="1x" timestamp="1481978302466">
+  <folder name="css">
+    <file name="site_global.css" crc="3986848468"/>
+    <file name="index.css" crc="8165912" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="ic_keyboard_arrow_down_white_48dp.png" crc="381446764" seo="true" ref="index"/>
+    <file name="1481100048179.jpg" crc="3876888281" seo="true" ref="index"/>
+    <file name="ic_place_24px.svg" crc="4243300836" seo="true" ref="index"/>
+    <file name="ic_place_24px_poster_.png" crc="372892023" ref="index"/>
+    <file name="ic_remove_red_eye_24px.svg" crc="4230905870" seo="true" ref="index"/>
+    <file name="ic_remove_red_eye_24px_poster_.png" crc="4052442380" ref="index"/>
+    <file name="1481101496310.jpg" crc="4011703422" seo="true" ref="index"/>
+    <file name="1481101567264.jpg" crc="300109189" seo="true" ref="index"/>
+    <file name="1481102828124.jpg" crc="3787355959" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3892613953" seo="true" mt="1481977832614" redirect="true"/>
+</manifest>
